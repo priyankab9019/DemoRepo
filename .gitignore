@@ -21,3 +21,11 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+target
+.classpath
+.project
+.settings
+classes/
+lib/
+*.log
